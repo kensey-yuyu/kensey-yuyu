@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello Everyone 👋
 
-<!--
-**kensey-yuyu/kensey-yuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Japanese master's student researching AI & ML on FPGA.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Master's student (Major in Informatics and Engineering)
+- Researching AI & ML on FPGA
+
+## Currently Learning
+
+- Rust
+  
+## Interests
+
+- Artificial Intelligence / Machine Learning / Deep Learning
+- FPGA-based Implementation
+  - Hardware-software co-design
+- RISC-V architecture
+- Reconfigurable processors
+- Linux
+
+## Tech Stack
+
+- **Languages**: Python, SystemVerilog
+  
+    **Others**: C/C++, Java, Dart
+- **Frameworks**: PyTorch
+
+  **Others**: Flutter
+- **Tools**: Git, Docker, VS Code, Vivado
