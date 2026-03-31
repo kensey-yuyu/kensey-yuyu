@@ -1,16 +1,16 @@
 # Hello Everyone 👋
 
-I'm a Japanese master's student researching AI & ML on FPGA.
+I'm researching AI & ML on FPGA on weekends.
 
 ## About Me
 
-- Master's student (Major in Informatics and Engineering)
+- Master of Engineering in Informatics
 - Researching AI & ML on FPGA
 
 ## Currently Learning
 
 - Rust
-  
+
 ## Interests
 
 - Artificial Intelligence / Machine Learning / Deep Learning
@@ -23,9 +23,7 @@ I'm a Japanese master's student researching AI & ML on FPGA.
 ## Tech Stack
 
 - **Languages**: Python, SystemVerilog
-  
     **Others**: C/C++, Java, Dart
 - **Frameworks**: PyTorch
-
   **Others**: Flutter
 - **Tools**: Git, Docker, VS Code, Vivado
