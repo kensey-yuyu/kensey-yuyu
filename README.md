@@ -22,8 +22,6 @@ I'm researching AI & ML on FPGA on weekends.
 
 ## Tech Stack
 
-- **Languages**: Python, SystemVerilog
-    **Others**: C/C++, Java, Dart
-- **Frameworks**: PyTorch
-  **Others**: Flutter
+- **Languages**: Python, SystemVerilog, C/C++, Java, Dart
+- **Frameworks**: PyTorch, Flutter
 - **Tools**: Git, Docker, VS Code, Vivado
